@@ -20,4 +20,6 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
+- W01 · Claude (Opus 5.5) · Used for: helped me phrase and structure my project proposal · Checked by: I read every section, made sure I can explain it myself, and changed what didn't match my project
+- W02 · Claude (Opus 5.5) · Used for: guided me through the tutorial steps (fork, clone, branches) and explained them; I ran every command myself · Checked by: comparing each step to the slides and checking the result on GitHub
 
